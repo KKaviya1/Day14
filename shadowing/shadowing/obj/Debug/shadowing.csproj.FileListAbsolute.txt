@@ -1,0 +1,8 @@
+F:\Day - 14\shadowing\shadowing\bin\Debug\shadowing.exe.config
+F:\Day - 14\shadowing\shadowing\bin\Debug\shadowing.exe
+F:\Day - 14\shadowing\shadowing\bin\Debug\shadowing.pdb
+F:\Day - 14\shadowing\shadowing\obj\Debug\shadowing.csproj.AssemblyReference.cache
+F:\Day - 14\shadowing\shadowing\obj\Debug\shadowing.csproj.SuggestedBindingRedirects.cache
+F:\Day - 14\shadowing\shadowing\obj\Debug\shadowing.csproj.CoreCompileInputs.cache
+F:\Day - 14\shadowing\shadowing\obj\Debug\shadowing.exe
+F:\Day - 14\shadowing\shadowing\obj\Debug\shadowing.pdb

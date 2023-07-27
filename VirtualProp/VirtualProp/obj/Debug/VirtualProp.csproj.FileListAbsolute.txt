@@ -1,0 +1,8 @@
+F:\Day - 14\VirtualProp\VirtualProp\bin\Debug\VirtualProp.exe.config
+F:\Day - 14\VirtualProp\VirtualProp\bin\Debug\VirtualProp.exe
+F:\Day - 14\VirtualProp\VirtualProp\bin\Debug\VirtualProp.pdb
+F:\Day - 14\VirtualProp\VirtualProp\obj\Debug\VirtualProp.csproj.AssemblyReference.cache
+F:\Day - 14\VirtualProp\VirtualProp\obj\Debug\VirtualProp.csproj.SuggestedBindingRedirects.cache
+F:\Day - 14\VirtualProp\VirtualProp\obj\Debug\VirtualProp.csproj.CoreCompileInputs.cache
+F:\Day - 14\VirtualProp\VirtualProp\obj\Debug\VirtualProp.exe
+F:\Day - 14\VirtualProp\VirtualProp\obj\Debug\VirtualProp.pdb
